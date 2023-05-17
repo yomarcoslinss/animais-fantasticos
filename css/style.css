@@ -121,7 +121,7 @@ ul {
     margin-bottom: 3rem ;
 }
 
-.faq dl {
+.faq-lista {
     grid-column: 2 / 4;
 }
 
